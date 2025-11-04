@@ -1,4 +1,4 @@
-package com.Day3.CW;
+package com.Day3.CW.MathUtility;
 
 public class MathUtility {
     public static void main(String[] args) {

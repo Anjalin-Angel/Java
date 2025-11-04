@@ -1,4 +1,6 @@
-package com.Day3.CW;
+package com.Day3.CW.ConstructorDemo;
+
+import com.Day3.CW.ClassDemo.Student;
 
 class Students{
     String name;

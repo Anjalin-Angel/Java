@@ -1,6 +1,6 @@
-package com.Day2.HW.H1;
+package com.Day2.HW.H3;
 
-import java.util.Scanner;3
+import java.util.Scanner;
 
 public class SumOfTwoNumbers {
     public static void main(String[] args) {

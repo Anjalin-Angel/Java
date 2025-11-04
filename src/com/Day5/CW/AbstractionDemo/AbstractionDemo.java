@@ -1,4 +1,4 @@
-package com.Day5.CW;
+package com.Day5.CW.AbstractionDemo;
 
 abstract class Shape{
     String color;

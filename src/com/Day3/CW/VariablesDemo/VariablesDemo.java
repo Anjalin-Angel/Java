@@ -1,4 +1,4 @@
-package com.Day3.CW;
+package com.Day3.CW.VariablesDemo;
 
 class Shape{
     int length;
