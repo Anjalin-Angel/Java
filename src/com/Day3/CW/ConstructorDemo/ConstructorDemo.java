@@ -1,7 +1,5 @@
 package com.Day3.CW.ConstructorDemo;
 
-import com.Day3.CW.ClassDemo.Student;
-
 class Students{
     String name;
     int rno;
@@ -25,7 +23,7 @@ class Students{
 
 public class ConstructorDemo {
     public static void main(String[] args) {
-        Student.college="MSAJ";
+        Students.college="MSAJ";
         Students s1=new Students("Jannath",101,"EEE","MSAJ");
         s1.display();
         System.out.println("----------------------");
